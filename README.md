@@ -37,7 +37,7 @@ Discover. Customize. Play. Select a screenshot to explore the details.
     <td width="50%" valign="top">
       <a href="assets/catalog.png"><img src="assets/catalog.png" width="100%" alt="Morse Catalog"></a>
       <h3>Catalog</h3>
-      <p><strong>Find your next favorite</strong><br>Browse GameBanana, preview mods and choose files to install.</p>
+      <p><strong>Find your next favorite</strong><br>Discover mods, explore previews and choose files to install.</p>
     </td>
   </tr>
   <tr>
