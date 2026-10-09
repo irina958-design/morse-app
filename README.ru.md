@@ -4,7 +4,7 @@
 
 [Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](#morse-в-деталях) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues) · [English](README.md)
 
-## Версия 0.2.0
+## Последний релиз
 
 - [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Setup-0.2.0.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
 - [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Portable-0.2.0.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
