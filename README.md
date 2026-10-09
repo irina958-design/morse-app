@@ -1,5 +1,3 @@
-<p align="center"><strong>🇬🇧 English</strong> · <a href="README.ru.md">🇷🇺 Русский</a></p>
-
 <div align="center">
   <img src="assets/icon.png" width="88" alt="Morse">
   <h1>Morse</h1>
@@ -8,7 +6,8 @@
   <p>
     <a href="https://github.com/irina958-design/morse-app/releases/latest"><strong>Download for Windows</strong></a> ·
     <a href="#explore-morse">Explore Morse</a> ·
-    <a href="https://github.com/irina958-design/morse-app/issues">Get help</a>
+    <a href="https://github.com/irina958-design/morse-app/issues">Get help</a> ·
+    <a href="README.ru.md">Русский</a>
   </p>
   <p>Windows x64 · English & Русский · Installer & Portable</p>
 </div>
