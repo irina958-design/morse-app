@@ -1,0 +1,21 @@
+Bundled performance preset data
+
+The preset values in electron/main/services/performanceConfigData.ts are derived
+from OptimizationLock by Sqooky and contributors and OptiLock by dacooder and
+contributors. They retain GNU GPL version 3 terms. Morse's generated differences
+are modifications of those configuration data, not a relicensing under MIT.
+
+The original upstream license texts are optimizationlock.txt and optilock.txt
+in this directory. Source pins, paths and hashes for every bundled version are
+in scripts/performance-presets.json. The generator and modified data are in the
+public Morse repository:
+https://github.com/irina958-design/morse
+
+OptimizationLock source:
+https://github.com/Sqooky/OptimizationLock
+OptiLock source:
+https://github.com/dacooderr/OptiLock
+
+These presets are configuration data. Their GPL notices do not remove the MIT
+notices covering the original desktop code or Morse's other source.
+Redistribution must preserve the applicable notices and corresponding source.
