@@ -1,4 +1,4 @@
-# Morse
+![Morse: менеджер модов Deadlock, Abrams и Paradox](assets/banner.png)
 
 **Все моды Deadlock в одном приложении.**
 
