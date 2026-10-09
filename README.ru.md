@@ -26,7 +26,7 @@ Windows x64. Английский и русский интерфейс. Прил
     <td width="50%" valign="top">
       <a href="assets/catalog.png"><img src="assets/catalog.png" width="100%" alt="Morse Catalog"></a>
       <h3>Catalog</h3>
-      <p><strong>Найдите следующий любимый мод</strong><br>Каталог GameBanana, описания, превью и выбор файлов для установки.</p>
+      <p><strong>Найдите следующий любимый мод</strong><br>Находите моды, смотрите превью и выбирайте файлы для установки.</p>
     </td>
   </tr>
   <tr>
