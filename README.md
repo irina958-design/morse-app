@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="100%" alt="Morse: banner">
+  <img src="assets/banner.png" width="100%" alt="Morse: banner">
   <p><strong>Your Deadlock mods, in one place.</strong></p>
   <p>Find your next mod. Build a loadout. Make the game yours.</p>
   <p>
