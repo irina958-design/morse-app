@@ -2,9 +2,7 @@
 
 **Все моды Deadlock в одном приложении.**
 
-[Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](README.md#explore-morse) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues) · [English](README.md)
-
-![Библиотека Morse](assets/library.png)
+[Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](#morse-в-деталях) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues) · [English](README.md)
 
 ## Версия 0.2.0
 
@@ -14,19 +12,59 @@
 
 Windows x64. Английский и русский интерфейс. Приложение пока не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
 
-## Возможности
+## Morse в деталях
 
-| Раздел | Что можно сделать |
-| --- | --- |
-| Library | Управлять установленными модами, вариантами и порядком загрузки, фильтровать коллекцию по героям. |
-| Catalog | Находить моды на GameBanana, читать описания, выбирать файлы и устанавливать их. |
-| Wardrobe | Просматривать героев и управлять установленными косметическими изменениями. |
-| Loadouts | Сохранять, обновлять, импортировать и экспортировать наборы модов. |
-| Autoexec | Редактировать команды и параметры запуска. |
-| Conflicts | Проверять пересечения файлов между модами. |
-| Settings | Настраивать язык, оформление, обновления и поддержку. |
+Найдите. Настройте. Играйте. Нажмите на скриншот, чтобы рассмотреть детали.
 
-[Посмотреть галерею всех основных разделов](README.md#explore-morse). Скриншоты сняты в настоящем интерфейсе на демонстрационном профиле. Вкладки оптимизации и экспериментальные разделы не включены.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/library.png"><img src="assets/library.png" width="100%" alt="Morse Library"></a>
+      <h3>Library</h3>
+      <p><strong>Коллекция под контролем</strong><br>Включайте моды, выбирайте варианты и меняйте порядок загрузки.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/catalog.png"><img src="assets/catalog.png" width="100%" alt="Morse Catalog"></a>
+      <h3>Catalog</h3>
+      <p><strong>Найдите следующий любимый мод</strong><br>Каталог GameBanana, описания, превью и выбор файлов для установки.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/wardrobe.png"><img src="assets/wardrobe.png" width="100%" alt="Morse Wardrobe"></a>
+      <h3>Wardrobe</h3>
+      <p><strong>Свой образ для каждого героя</strong><br>Герои и установленные косметические изменения в одном месте.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/loadouts.png"><img src="assets/loadouts.png" width="100%" alt="Morse Loadouts"></a>
+      <h3>Loadouts</h3>
+      <p><strong>Сохраняйте любимые сочетания</strong><br>Создавайте, обновляйте и переносите свои наборы модов.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/autoexec.png"><img src="assets/autoexec.png" width="100%" alt="Morse Autoexec"></a>
+      <h3>Autoexec</h3>
+      <p><strong>Всё готово к началу матча</strong><br>Редактируйте команды и параметры запуска в одном окне.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/conflicts.png"><img src="assets/conflicts.png" width="100%" alt="Morse Conflicts"></a>
+      <h3>Conflicts</h3>
+      <p><strong>Разберитесь в пересечениях</strong><br>Проверяйте общие файлы модов перед изменением своей сборки.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>Settings · Ваш Morse</strong></summary>
+
+Русский и английский интерфейс, акцентные цвета, фон, OLED-режим и поддержка уменьшения анимации.
+
+[![Morse Settings](assets/settings.png)](assets/settings.png)
+
+</details>
+
+Скриншоты настоящего приложения на демонстрационном профиле. Оптимизация и экспериментальные разделы не включены.
 
 ## Обновления и помощь
 

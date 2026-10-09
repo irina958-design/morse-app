@@ -12,8 +12,6 @@
   <p>Windows x64 · English & Русский · Installer & Portable</p>
 </div>
 
-![Morse Library](assets/library.png)
-
 ## Get Morse 0.2.0
 
 | | Download | What to expect |
@@ -27,56 +25,57 @@ The Windows build is currently unsigned. Windows may show an unknown-publisher o
 
 ## Explore Morse
 
-### A library that stays organized
+Discover. Customize. Play. Select a screenshot to explore the details.
 
-See your installed mods, enable or disable them, inspect their files and manage load order. Filter by hero and keep variants together. Cached library information makes returning to your collection faster.
-
-### Discover something new
-
-Browse the GameBanana catalog with search, filters and previews. Open a mod's description, choose its files and install from the same workspace. Available removal and moderation status is used to filter unavailable submissions.
-
-![Catalog](assets/catalog.png)
-
-### Dress your roster
-
-Wardrobe brings installed cosmetics together by hero. Browse the roster and find the appearance, sounds and supported assets you want to change.
-
-![Wardrobe](assets/wardrobe.png)
-
-### Keep your favorite combinations
-
-Save mod configurations as loadouts, switch between them and update them as your collection changes. Import and export profiles to move a setup between installations.
-
-![Loadouts](assets/loadouts.png)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/library.png"><img src="assets/library.png" width="100%" alt="Morse Library"></a>
+      <h3>Library</h3>
+      <p><strong>Your collection, under control</strong><br>Enable mods, manage variants and arrange load order.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/catalog.png"><img src="assets/catalog.png" width="100%" alt="Morse Catalog"></a>
+      <h3>Catalog</h3>
+      <p><strong>Find your next favorite</strong><br>Browse GameBanana, preview mods and choose files to install.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/wardrobe.png"><img src="assets/wardrobe.png" width="100%" alt="Morse Wardrobe"></a>
+      <h3>Wardrobe</h3>
+      <p><strong>A look for every hero</strong><br>Explore your roster and its installed cosmetics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/loadouts.png"><img src="assets/loadouts.png" width="100%" alt="Morse Loadouts"></a>
+      <h3>Loadouts</h3>
+      <p><strong>Keep the combinations you love</strong><br>Save, update and share your mod setups.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/autoexec.png"><img src="assets/autoexec.png" width="100%" alt="Morse Autoexec"></a>
+      <h3>Autoexec</h3>
+      <p><strong>Ready before the match</strong><br>Edit startup commands and launch options in one workspace.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/conflicts.png"><img src="assets/conflicts.png" width="100%" alt="Morse Conflicts"></a>
+      <h3>Conflicts</h3>
+      <p><strong>See what overlaps</strong><br>Inspect shared files before adjusting your setup.</p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>Autoexec: commands and launch options</strong></summary>
+<summary><strong>Settings · Make Morse yours</strong></summary>
 
-Edit startup commands and Steam launch arguments in one workspace, with explicit save controls.
+English and Russian, accent colors, backgrounds, OLED mode and reduced-motion support.
 
-![Autoexec](assets/autoexec.png)
+[![Morse Settings](assets/settings.png)](assets/settings.png)
 
 </details>
 
-<details>
-<summary><strong>Conflicts: understand overlapping files</strong></summary>
-
-Inspect conflicts between installed mods and review which files overlap before adjusting your setup.
-
-![Conflicts](assets/conflicts.png)
-
-</details>
-
-<details>
-<summary><strong>Settings: make Morse feel at home</strong></summary>
-
-English and Russian, configurable accent colors and backgrounds, OLED mode and support for reduced motion.
-
-![Settings](assets/settings.png)
-
-</details>
-
-Screenshots show the actual Morse interface in an isolated demo profile. Demo entries illustrate the UI; they are not a claim about downloadable skins or in-game results. Optimization and experimental tabs are not included in this gallery.
+Actual application screenshots with a demo profile. Demo entries illustrate the interface, not in-game results. Optimization and experimental tabs are not included.
 
 ## First steps
 
