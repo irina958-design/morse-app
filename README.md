@@ -87,7 +87,7 @@ Actual application screenshots with a demo profile. Demo entries illustrate the 
 
 Morse 0.2.0 checks this public repository for releases. Open **Settings → Updates** to check for a newer version. Installer builds support in-app installation; portable builds link to the release download.
 
-Found a problem? Use **Settings → Support** to prepare a diagnostic report, review it, and open a [bug report](https://github.com/irina958-design/morse-app/issues/new?template=bug_report.md). Do not post passwords, tokens or personal files. See [Support](SUPPORT.md) for the details that help us reproduce an issue.
+Found a problem? Use **Settings → Support** to prepare a diagnostic report, review it, and open a [bug report](https://github.com/irina958-design/morse-app/issues/new?template=bug_report.md). See [Support](SUPPORT.md) for the details that help us reproduce an issue.
 
 ## About this repository
 
