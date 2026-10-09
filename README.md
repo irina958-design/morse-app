@@ -74,7 +74,7 @@ English and Russian, accent colors, backgrounds, OLED mode and reduced-motion su
 
 </details>
 
-Actual application screenshots with a demo profile. Demo entries illustrate the interface, not in-game results. Optimization and experimental tabs are not included.
+Actual application screenshots with a demo profile. Demo entries illustrate the interface, not in-game results.
 
 ## First steps
 
