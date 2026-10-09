@@ -1,10 +1,8 @@
-<p align="center"><a href="README.md">🇬🇧 English</a> · <strong>🇷🇺 Русский</strong></p>
-
 # Morse
 
 **Все моды Deadlock в одном приложении.**
 
-[Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](#morse-в-деталях) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues)
+[Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](#morse-в-деталях) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues) · [English](README.md)
 
 ## Версия 0.2.0
 
