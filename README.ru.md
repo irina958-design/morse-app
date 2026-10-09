@@ -4,17 +4,17 @@
 
 [Скачать для Windows](https://github.com/irina958-design/morse-app/releases/latest) · [Скриншоты](#morse-в-деталях) · [Сообщить об ошибке](https://github.com/irina958-design/morse-app/issues) · [English](README.md)
 
-## Последний релиз
+## Файлы для загрузки
 
 - [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Setup-0.2.0.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
 - [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Portable-0.2.0.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
 - [Изменения и контрольные суммы](https://github.com/irina958-design/morse-app/releases/tag/v0.2.0).
 
-Windows x64. Английский и русский интерфейс. Приложение пока не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
+Windows x64. Английский и русский интерфейс. Приложение не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
 
 ## Morse в деталях
 
-Найдите. Настройте. Играйте. Нажмите на скриншот, чтобы рассмотреть детали.
+Найдите. Настройте. Играйте.
 
 <table>
   <tr>
