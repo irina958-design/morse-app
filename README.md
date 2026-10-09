@@ -11,7 +11,7 @@
   <p>Windows x64 · English & Русский · Installer & Portable</p>
 </div>
 
-## Get Morse 0.2.0
+## Get Morse
 
 | | Download | What to expect |
 | --- | --- | --- |
