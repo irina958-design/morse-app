@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="88" alt="Morse">
-  <h1>Morse</h1>
+  <img src="assets/banner.png" width="100%" alt="Morse: Deadlock mod manager, with Abrams and Paradox">
   <p><strong>Your Deadlock mods, in one place.</strong></p>
   <p>Find your next mod. Build a loadout. Make the game yours.</p>
   <p>
