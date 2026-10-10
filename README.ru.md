@@ -6,9 +6,9 @@
 
 ## Файлы для загрузки
 
-- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.2/Morse-Setup-0.2.2.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
-- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.2/Morse-Portable-0.2.2.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
-- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.2).
+- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.3/Morse-Setup-0.2.3.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
+- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.3/Morse-Portable-0.2.3.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
+- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.3).
 
 Windows x64. Английский и русский интерфейс. Приложение не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
 
