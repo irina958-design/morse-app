@@ -15,10 +15,10 @@
 
 | | Download | What to expect |
 | --- | --- | --- |
-| **Installer** | [Morse Setup](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Setup-0.2.0.exe) | Choose an install location, add shortcuts and install supported updates from Morse. |
-| **Portable** | [Morse Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.0/Morse-Portable-0.2.0.exe) | Launch without an installation wizard. Settings are stored in your Windows user profile. Update by downloading the new portable build. |
+| **Installer** | [Morse Setup](https://github.com/irina958-design/morse-app/releases/download/v0.2.1/Morse-Setup-0.2.1.exe) | Choose an install location, add shortcuts and install supported updates from Morse. |
+| **Portable** | [Morse Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.1/Morse-Portable-0.2.1.exe) | Launch without an installation wizard. Settings are stored in your Windows user profile. Update by downloading the new portable build. |
 
-[Release notes & checksums](https://github.com/irina958-design/morse-app/releases/tag/v0.2.0)
+[Release notes & checksums](https://github.com/irina958-design/morse-app/releases/tag/v0.2.1)
 
 The Windows build is currently unsigned. Windows may show an unknown-publisher or SmartScreen prompt. Only Windows x64 packages are included in this release.
 
@@ -85,7 +85,7 @@ Actual application screenshots with a demo profile. Demo entries illustrate the 
 
 ## Updates and support
 
-Morse 0.2.0 checks this public repository for releases. Open **Settings → Updates** to check for a newer version. Installer builds support in-app installation; portable builds link to the release download.
+Morse 0.2.1 checks this public repository for releases. Open **Settings → Updates** to check for a newer version. Installer builds support in-app installation; portable builds link to the release download.
 
 Found a problem? Use **Settings → Support** to prepare a diagnostic report, review it, and open a [bug report](https://github.com/irina958-design/morse-app/issues/new?template=bug_report.md). See [Support](SUPPORT.md) for the details that help us reproduce an issue.
 
