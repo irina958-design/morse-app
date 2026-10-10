@@ -58,8 +58,6 @@ Windows x64. Английский и русский интерфейс. Прил
 <details>
 <summary><strong>Settings · Ваш Morse</strong></summary>
 
-Русский и английский интерфейс, акцентные цвета, фон, OLED-режим и много других возможностей.
-
 [![Morse Settings](assets/settings.png)](assets/settings.png)
 
 </details>
