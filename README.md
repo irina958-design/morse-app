@@ -8,7 +8,7 @@
     <a href="https://github.com/irina958-design/morse-app/issues">Get help</a> ·
     <a href="README.ru.md">Русский</a>
   </p>
-  <p>Windows x64 · English & Русский · Installer & Portable</p>
+  <p>Windows x64 · English & Русский · Installer</p>
 </div>
 
 ## Get Morse
@@ -73,8 +73,6 @@ English and Russian, accent colors, backgrounds, OLED mode and reduced-motion su
 [![Morse Settings](assets/settings.png)](assets/settings.png)
 
 </details>
-
-Actual application screenshots with a demo profile. Demo entries illustrate the interface, not in-game results.
 
 ## First steps
 
