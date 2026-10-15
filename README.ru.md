@@ -6,9 +6,9 @@
 
 ## Файлы для загрузки
 
-- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.11/Morse-Setup-0.2.11.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
-- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.11/Morse-Portable-0.2.11.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
-- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.11).
+- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.12/Morse-Setup-0.2.12.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
+- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.12/Morse-Portable-0.2.12.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
+- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.12).
 
 Stats теперь доступен всем. Новый **Тестовый дизайн** включается в **Настройки > Оформление**. [Посмотреть](assets/test-design/library.png).
 
