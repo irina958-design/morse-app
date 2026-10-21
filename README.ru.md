@@ -6,11 +6,11 @@
 
 ## Файлы для загрузки
 
-- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.16/Morse-Setup-0.2.16.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
-- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.16/Morse-Portable-0.2.16.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
-- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.16).
+- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.17/Morse-Setup-0.2.17.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
+- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.17/Morse-Portable-0.2.17.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
+- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.17).
 
-Stats теперь доступен всем. Новый **Тестовый дизайн** включается в **Настройки > Оформление**. [Посмотреть](assets/test-design/library.png).
+Новый Dashboard и сезонное оформление Halloween. Выбор оформления — в **Настройки > Оформление**. [Посмотреть](assets/halloween/dashboard.png).
 
 Windows x64. Английский и русский интерфейс. Приложение не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
 
@@ -73,3 +73,4 @@ Windows x64. Английский и русский интерфейс. Прил
 Этот репозиторий содержит только описание продукта, скриншоты, лицензии и готовые сборки.
 
 Morse основан на ядре Grimoire под лицензией MIT. Проект не связан с Valve или GameBanana. Права на Deadlock и игровые изображения принадлежат их владельцам. [Лицензия](LICENSE) · [Сторонние компоненты](THIRD_PARTY_NOTICES.md).
+
