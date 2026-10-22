@@ -6,9 +6,9 @@
 
 ## Файлы для загрузки
 
-- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.17/Morse-Setup-0.2.17.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
-- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.17/Morse-Portable-0.2.17.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
-- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.17).
+- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Setup-0.2.18.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
+- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Portable-0.2.18.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
+- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.18).
 
 Новый Dashboard и сезонное оформление Halloween. Выбор оформления — в **Настройки > Оформление**. [Посмотреть](assets/halloween/dashboard.png).
 
