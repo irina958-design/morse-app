@@ -15,12 +15,12 @@
 
 | | Download | What to expect |
 | --- | --- | --- |
-| **Installer** | [Morse Setup](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Setup-0.2.18.exe) | Choose an install location, add shortcuts and install supported updates from Morse. |
-| **Portable** | [Morse Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Portable-0.2.18.exe) | Launch without an installation wizard. Settings are stored in your Windows user profile. Update by downloading the new portable build. |
+| **Installer** | [Morse Setup](https://github.com/irina958-design/morse-app/releases/download/v0.2.19/Morse-Setup-0.2.19.exe) | Choose an install location, add shortcuts and install supported updates from Morse. |
+| **Portable** | [Morse Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.19/Morse-Portable-0.2.19.exe) | Launch without an installation wizard. Settings are stored in your Windows user profile. Update by downloading the new portable build. |
 
-[Release notes & checksums](https://github.com/irina958-design/morse-app/releases/tag/v0.2.18)
+[Release notes & checksums](https://github.com/irina958-design/morse-app/releases/tag/v0.2.19)
 
-Explore the new Dashboard and seasonal Halloween design. Appearance options are in **Settings > Appearance**. [Preview](assets/halloween/dashboard.png).
+Door Stuck adds skin and ability-effect editing with 3D previews. This release also improves the catalog and reduces backup storage. Seasonal appearance options are in **Settings > Appearance**. [Halloween preview](assets/halloween/dashboard.png).
 
 The Windows build is currently unsigned. Windows may show an unknown-publisher or SmartScreen prompt. Only Windows x64 packages are included in this release.
 
@@ -85,7 +85,7 @@ English and Russian, accent colors, backgrounds, OLED mode and reduced-motion su
 
 ## Updates and support
 
-Morse 0.2.18 checks this public repository for releases. Open **Settings → Updates** to check for a newer version. Installer builds support in-app installation; portable builds link to the release download.
+Morse 0.2.19 checks this public repository for releases. Open **Settings → Updates** to check for a newer version. Installer builds support in-app installation; portable builds link to the release download.
 
 Found a problem? Use **Settings → Support** to prepare a diagnostic report, review it, and open a [bug report](https://github.com/irina958-design/morse-app/issues/new?template=bug_report.md). See [Support](SUPPORT.md) for the details that help us reproduce an issue.
 

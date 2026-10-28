@@ -6,11 +6,11 @@
 
 ## Файлы для загрузки
 
-- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Setup-0.2.18.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
-- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.18/Morse-Portable-0.2.18.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
-- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.18).
+- [Установщик](https://github.com/irina958-design/morse-app/releases/download/v0.2.19/Morse-Setup-0.2.19.exe): выбор папки установки, ярлыки и установка обновлений из приложения.
+- [Portable](https://github.com/irina958-design/morse-app/releases/download/v0.2.19/Morse-Portable-0.2.19.exe): запуск без установки. Настройки сохраняются в профиле Windows. Для обновления скачайте новый portable-файл.
+- [Изменения](https://github.com/irina958-design/morse-app/releases/tag/v0.2.19).
 
-Новый Dashboard и сезонное оформление Halloween. Выбор оформления — в **Настройки > Оформление**. [Посмотреть](assets/halloween/dashboard.png).
+В Door Stuck появились редактирование скинов и эффектов способностей с 3D-превью. Улучшен каталог, уменьшен размер резервных копий. Сезонное оформление доступно в **Настройки > Оформление**. [Halloween](assets/halloween/dashboard.png).
 
 Windows x64. Английский и русский интерфейс. Приложение не имеет цифровой подписи: Windows может показать предупреждение о неизвестном издателе.
 
